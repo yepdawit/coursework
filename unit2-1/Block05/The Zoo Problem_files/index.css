@@ -1,0 +1,32 @@
+ 
+nav ul{
+    float: right;
+    margin-right: 20px;   
+
+}
+nav ul li {
+    display: inline-block;
+    line-height: 50px;
+    margin: 0.2px;
+}
+
+img{
+
+    background-size: 150px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid;
+    color: whitesmoke;
+  }
+
+
+  
+  body{
+    background-image: url(https://t3.ftcdn.net/jpg/04/15/69/88/360_F_415698823_A4tj5yrUdVPaKbDbE1VMNpbw1tAYRjaR.jpg)
+    
+  }
+  body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
